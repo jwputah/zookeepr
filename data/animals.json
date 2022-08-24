@@ -99,15 +99,6 @@
       "personalityTraits": [
         "hungry"
       ]
-    },
-    {
-      "name": "Sufjan",
-      "species": "Koala Bear",
-      "diet": "herbivore",
-      "personalityTraits": [
-        "loving"
-      ],
-      "id": "10"
     }
   ]
 }
